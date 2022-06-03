@@ -1,6 +1,6 @@
 # Project-4
 
-The goal of project 4 was to gain further experience breaking a project into manageable components, while also gaining experience writing and executing non-web server Node.js JavaScript code. Ww worked on writing and executing Node.js REST API servers. We also wokred on using Fastify with the GET verb, routes, and route parameters.
+The goal of project 4 was to gain further experience breaking a project into manageable components, while also gaining experience writing and executing non-web server Node.js JavaScript code. We worked on writing and executing Node.js REST API servers. We also wokred on using Fastify with the GET verb, routes, and route parameters.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 

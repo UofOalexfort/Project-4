@@ -7,10 +7,10 @@ The goal of project 4 was to gain further experience breaking a project into man
 ## We practiced the follow skills within this project:
 
 - writing and executing Node.js REST API servers
-- Fastify with the GET verb, routes, and route parameters.
+- using Fastify with the GET verb, routes, and route parameters.
 - testing code modules without using a web server
 - using Postman to test web server routes 
-- Gain experience working with JSON
+- working with JSON
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
